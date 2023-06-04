@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rambo\\source\\repos\\TradeEazy\\TradeEasy.Logic.Shared\\TradeEasy.Logic.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\rambo\\OneDrive\\Documents\\TradeEazy\\TradeEasy.Logic.Shared\\TradeEasy.Logic.Shared.csproj",
       "projectName": "TradeEasy.Logic.Shared",
-      "projectPath": "C:\\Users\\rambo\\source\\repos\\TradeEazy\\TradeEasy.Logic.Shared\\TradeEasy.Logic.Shared.csproj",
+      "projectPath": "C:\\Users\\rambo\\OneDrive\\Documents\\TradeEazy\\TradeEasy.Logic.Shared\\TradeEasy.Logic.Shared.csproj",
       "packagesPath": "C:\\Users\\rambo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rambo\\source\\repos\\TradeEazy\\TradeEasy.Logic.Shared\\obj\\",
+      "outputPath": "C:\\Users\\rambo\\OneDrive\\Documents\\TradeEazy\\TradeEasy.Logic.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rambo\\AppData\\Roaming\\NuGet\\NuGet.Config",
