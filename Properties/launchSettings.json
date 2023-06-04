@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TokenManagement": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7104"
+    }
+  }
+}

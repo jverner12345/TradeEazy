@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "EbayOptions": {
+    "EbayAuthUrl": "https://api.sandbox.ebay.com/",
+    "AppId": "JamieVer-TradeEaz-SBX-dca8cc756-683ba9e4",
+    "ClientSecret": "SBX-ca8cc7567fd7-8768-42df-8414-e825"
+  }
+}
